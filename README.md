@@ -11,10 +11,12 @@
 **1. Agin DropDisco**
 - [x] LINKEDIN: https://www.linkedin.com/in/agin-dropdisco-5555b7171/
 - [x] GITHUB: https://github.com/Agin-DropDisco
+- [x] BUIDLBOX: https://app.buidlbox.io/buidler/dropdisco
 
 **2. Adinda Ratnawati Ridwan**
 - [x] LINKEDIN: https://www.linkedin.com/in/adinda-ratnawati-ridwan-20a980170/
 - [x] GITHUB: https://github.com/adinda-ratna
+- [x] BUIDLBOX: https://app.buidlbox.io/buidler/AdindaR
 
 
 ### Challenges:
